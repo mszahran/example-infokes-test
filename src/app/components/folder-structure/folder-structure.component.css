@@ -1,0 +1,16 @@
+/* style.css */
+.bg-white {
+  background-color: #fff; /* Warna latar belakang putih */
+}
+
+.shadow-md {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Bayangan ringan */
+}
+
+.hover\:shadow-lg:hover {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); /* Bayangan lebih besar saat hover */
+}
+
+.transition {
+  transition: box-shadow 0.2s; /* Transisi halus untuk bayangan */
+}
